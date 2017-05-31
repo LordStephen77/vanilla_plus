@@ -5,7 +5,7 @@ This mod adds colored clay to your minetest world!
 see LICENSE.txt
 
 ## Crafting
-Colored Clay:
+Colored Clay Craft:
 
 | C | D |   |
 |---|---|---|
