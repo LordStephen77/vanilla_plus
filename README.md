@@ -5,9 +5,9 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 ## Forum Topic
 - ...
 
-## Mapgen
+## Minetest version
 
-Mapgen v7 recommended
+Minetest 0.4.15 Stable (mapgen v7 recommended)
 
 ## Mods Added
 
