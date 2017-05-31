@@ -1,7 +1,13 @@
 # Vanilla Plus
-### By Stefano Peris (LordStephen77)
 
 Subgame based on Minetest_Game with the addition of selected mods that add new content without modifying the conservative style of the original project.
+
+### Credits
+
+- Stefano Peris (LordStephen77)
+- tenplus1
+- kilbith
+- Read the notes inside the mods to get to know other developers.
 
 ## Forum Topic
 ...
