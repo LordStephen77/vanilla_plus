@@ -33,6 +33,7 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 - Updated at minetest_game 0.4.16.
 - Added mod "farming" by tenplus1.
 - Various fix to "clay_color" and "glass_color" mods.
+- Added lanters mod.
 - Added new textures (all trees + bread).
 - Menu header update.
 - Added credits.
