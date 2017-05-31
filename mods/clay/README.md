@@ -12,8 +12,10 @@ Colored Clay Craft:
 |   |   |   |
 |   |   |   |
 
-	C : Clay
-	D : Dye
+Legend
+
+C : Clay
+D : Dye
 
 ## Bugs
 Report bugs on the forum topic or open a issue on GitHub.

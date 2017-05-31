@@ -12,8 +12,10 @@ Colored Glass Craft:
 |   | G |   |
 |   |   |   |
 
-	D : Dye
-	G : Glass
+Legend
+
+D : Dye
+G : Glass
 
 ## Bugs
 Report bugs on the forum topic or open a issue on GitHub.
