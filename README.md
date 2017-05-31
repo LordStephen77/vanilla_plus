@@ -14,7 +14,7 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 
 ## Minetest version
 
-- Minetest 0.4.15 Stable (mapgen v7 recommended)
+- Minetest 0.4.15 Stable (mapgen v7 recommended).
 
 ## Mods Added
 
@@ -30,7 +30,8 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 
 ### 31/05/2017
 
-- Added mod "farming" by tenplus1
-- Various fix to "clay_color" and "glass_color" mods
-- Added new textures (all trees + bread)
-- Menu header update
+- Added mod "farming" by tenplus1.
+- Various fix to "clay_color" and "glass_color" mods.
+- Added new textures (all trees + bread).
+- Menu header update.
+- Added credits.
