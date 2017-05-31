@@ -25,6 +25,7 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 - craftguide (By kilbith)
 - clay_color (By LordStephen77)
 - glass_color (By LordStephen77)
+- lanterns (By LordStephen77)
 
 ## Changelog
 
