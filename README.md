@@ -20,7 +20,7 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 
 - All the mods of "minetest_game" (last stable version without editing)
 - ambience (By tenplus1)
-- farming redo (By tenplus1)
+- farming (By tenplus1)
 - pie (By tenplus1)
 - craftguide (By kilbith)
 - clay_color (By LordStephen77)
