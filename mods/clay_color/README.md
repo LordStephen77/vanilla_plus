@@ -1,4 +1,4 @@
-## Colored Clay Mod
+## Clay Color Mod
 This mod adds colored clay to your minetest world!
 
 ## License
