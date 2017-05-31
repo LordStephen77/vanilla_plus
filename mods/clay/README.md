@@ -19,4 +19,4 @@ Colored Clay Craft:
 Report bugs on the forum topic or open a issue on GitHub.
 
 ## Created by
-Stefano Peris (LordStephen77) - lordstephen77@gmail.com
+Stefano Peris <LordStephen77> - lordstephen77@gmail.com
