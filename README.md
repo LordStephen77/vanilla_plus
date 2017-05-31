@@ -25,3 +25,4 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 
 - Added mod "farming" by tenplus1
 - Various fix to "clay_color" and "glass_color" mods
+- Added new textures (all trees + bread)
