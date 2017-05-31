@@ -11,7 +11,7 @@ Minetest 0.4.15 Stable (mapgen v7 recommended)
 
 ## Mods Added
 
-- minetest_game (latest full version without editing)
+- All the mods of "minetest_game" (last stable version without editing)
 - ambience (By tenplus1)
 - farming redo (By tenplus1)
 - pie (By tenplus1)
