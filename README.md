@@ -5,12 +5,16 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 ## Forum Topic
 - ...
 
+## Mapgen
+
+Mapgen v7 recommended
+
 ## Mods Added
 
 - minetest_game (latest full version without editing)
+- ambience (By tenplus1)
 - farming redo (By tenplus1)
 - pie (By tenplus1)
-- ambience (By tenplus1)
 - craftguide (By kilbith)
 - clay_color (By LordStephen77)
 - glass_color (By LordStephen77)
