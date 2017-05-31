@@ -3,7 +3,7 @@
 Subgame based on Minetest_Game with the addition of selected mods that add new content without modifying the conservative style of the original project.
 
 ## Forum Topic
-- ...
+...
 
 ## Minetest version
 
