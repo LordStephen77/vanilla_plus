@@ -14,7 +14,7 @@ Subgame based on Minetest_Game with the addition of selected mods that add new c
 
 ## Minetest version
 
-- Minetest 0.4.16 Stable or higher (mapgen v7 recommended).
+- Minetest 0.4.16 Stable (mapgen v7 recommended).
 
 ## Mods Added
 
