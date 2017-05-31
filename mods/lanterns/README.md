@@ -1,5 +1,5 @@
 ## Lanterns Mod
-This mod adds colored clay to your minetest world!
+This mod adds lantern blocks to your minetest world!
 
 ## License
 see LICENSE.txt
